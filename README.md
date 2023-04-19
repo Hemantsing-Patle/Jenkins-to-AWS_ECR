@@ -15,6 +15,7 @@ Jenkins with AWS ECR pipeline
 11. chmod 777 /var/run/docker.sock
 12. Make sure all the plug in need to install in Jenkins in order to run.
 13. Create Webhook in Git
+14. In Jenkins need to put Genkins configuration.
 
 
 ## Install Jenkins
